@@ -1,0 +1,91 @@
+/* 🔹 General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+/* 🔹 Center Forms & Pages */
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* 🔹 Navigation Bar */
+.navbar {
+    background: #15172b;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 500;
+}
+
+.navbar a:hover {
+    color: #ffcc00;
+}
+
+/* 🔹 Forms */
+.form-control {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    color: #fff;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.form-control:focus {
+    background: rgba(255, 255, 255, 0.3);
+    outline: none;
+}
+
+/* 🔹 Buttons */
+.btn {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-primary {
+        background: #FFF9C4;
+        color: #15172b;
+}
+
+.btn-primary:hover {
+    background: #ffaa00;
+}
+
+/* 🔹 Dashboard */
+.dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 40px;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.card h2 {
+    color: #ffcc00;
+}

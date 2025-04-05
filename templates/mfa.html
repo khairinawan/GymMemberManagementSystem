@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'style.css') }}">
+    <title>Multi-Factor Authentication</title>
+</head>
+<body>
+    <h2>Enter OTP</h2>
+    <form method="POST">
+        <label for="otp">One-Time Password:</label>
+        <input type="text" id="otp" name="otp" required>
+        <button type="submit">Verify</button>
+    </form>
+    <a href="{{ url_for('mfa_setup') }}" class="btn btn-primary:hover">Setup MFA</a>
+</body>
+</html>

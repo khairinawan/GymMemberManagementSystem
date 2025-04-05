@@ -1,0 +1,1923 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:39:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:39:41] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+WARNING:root:Failed login attempt for user: pakkarim
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:39:47] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:39:53] "GET / HTTP/1.1" 200 -
+WARNING:root:Failed login attempt for user: pakkarim
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:39:57] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:40:02] "GET / HTTP/1.1" 200 -
+WARNING:root:Failed login attempt for user: staff
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:40:12] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:42] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:49] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:49] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:50] "GET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:50] "GET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:50] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=RPPLJb9S2k4HGhE12WXQ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:47:50] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:51] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:51] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:51] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:51] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=RPPLJb9S2k4HGhE12WXQ HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:51] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=RPPLJb9S2k4HGhE12WXQ HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=RPPLJb9S2k4HGhE12WXQ HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:50:52] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:53:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:53:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:53:07] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:53:07] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:53:08] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:53:08] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 02:53:08] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=bOy2KPMxnuf79IjtZEK0 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:12] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:19] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:19] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:20] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:20] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:20] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=uVg3g3wlyfqbilP7Udss HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:20] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:38] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:38] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:38] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:38] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:04:38] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=uVg3g3wlyfqbilP7Udss HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:27] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:28] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:31] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:31] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:34] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:34] "GET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:34] "GET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:34] "GET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=b11VkiwgC4zEzKxMDVsZ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:34] "GET /view_members?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:41] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:47] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:06:47] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:01] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:01] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:01] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:01] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=b11VkiwgC4zEzKxMDVsZ HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:05] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:07] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:10] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:12] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:12] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:15] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:15] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:15] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:07:16] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=b11VkiwgC4zEzKxMDVsZ HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:13] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:16] "GET /member/1/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:18] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:19] "GET /register_class/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:24] "[32mPOST /register_class/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:24] "GET /member/1/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:29] "GET /register_class/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:30] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:32] "GET /member/1/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:33] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:34] "GET /register_class/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:34] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:36] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:41] "[32mPOST /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:41] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:43] "GET /member/2/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:53] "[32mPOST /delete_member/2 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:53] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:54] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:09:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:04] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:04] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:07] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:07] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:08] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:08] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:08] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:08] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:10] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:10] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:10] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:10] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:11] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:11] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:12] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:14] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:16] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:17] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:17] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:17] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:17] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:17] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:17] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:17] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:18] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:18] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:18] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:22] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:10:22] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:15] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:18] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:52:34] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:53:14] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:53:14] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 03:53:35] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:14:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:14:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:14:19] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:30:37] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:30:37] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:30:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:30:37] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:30:46] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:30:46] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:30:53] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:11] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:12] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:15] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:15] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:15] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:15] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:15] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:18] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:19] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:19] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:19] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:19] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:34:22] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:37:46] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:37:46] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:37:56] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:37:56] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:01] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:10] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:15] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:15] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:35] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:38:46] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:39:27] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:39:37] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:40:00] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:40:14] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:40:14] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:42:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:42:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:42:50] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:42:58] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:42:58] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:43:03] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:43:03] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:43:04] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:43:04] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:43:05] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:43:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 04:43:07] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:45:30] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:45:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:45:30] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:45:42] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:45:42] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:46:08] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:46:08] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:46:13] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:46:36] "[32mPOST /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:46:36] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:46:42] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:46:42] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:47:01] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:47:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 06:47:03] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:40:53] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:41:11] "[35m[1mGET /login/callback?state=bL7TFmib8GHhGXt5vISJq6352uoZek&code=4/0AQSTgQGXvp2M2k0vUrgDTzZwBMqNCbafpMWMEY7X67bBKJ2MYOcMZaiC2ohiIHEYZDlfdw&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:41:12] "GET /login/callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:41:12] "GET /login/callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:41:12] "GET /login/callback?__debugger__=yes&cmd=resource&f=console.png&s=gZI3mgpRXHD7TYuidZj5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:41:12] "GET /login/callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:47:27] "[35m[1mGET /login/callback?state=bL7TFmib8GHhGXt5vISJq6352uoZek&code=4/0AQSTgQGXvp2M2k0vUrgDTzZwBMqNCbafpMWMEY7X67bBKJ2MYOcMZaiC2ohiIHEYZDlfdw&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:47:27] "[36mGET /login/callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:47:27] "[36mGET /login/callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:47:27] "GET /login/callback?__debugger__=yes&cmd=resource&f=console.png&s=xN08as0OsrkOgWqBgMLk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:47:27] "[36mGET /login/callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:55:59] "[31m[1mGET /login/callback?state=bL7TFmib8GHhGXt5vISJq6352uoZek&code=4/0AQSTgQH78eZa00cnx-py2JO9RDf8ov4jemA4FEX9fIJ_akLstrcgZ7pD0bkeJtUEkl0mbg&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:56:05] "[31m[1mGET /login/callback?state=bL7TFmib8GHhGXt5vISJq6352uoZek&code=4/0AQSTgQH78eZa00cnx-py2JO9RDf8ov4jemA4FEX9fIJ_akLstrcgZ7pD0bkeJtUEkl0mbg&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:56:13] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:56:49] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:58:38] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:58:43] "[32mGET /login/callback?state=d79ee119514826c99ab07ad20e126a4b&code=4/0AQSTgQEe-RDo9Wxg83_G_FRmCBxT4m9igYIBGN_Z9Izz8hwowKXjr6YixgCq_zzmalWczQ&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile&authuser=1&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:58:43] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:58:44] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:58:44] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:58:44] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=4k8NjtVfHxXgjAgORTh4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 07:58:44] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:00:56] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:00:56] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:00:56] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:00:56] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=8QBlcNXDQtxv39zCBsk7 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:00:56] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:43] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:50] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:54] "[32mGET /login/callback?state=f8edbbe7a15ee872e2e1d777e19b3372&code=4/0AQSTgQHh9v8dbqwZF2CoL9krO0ysHft0z6frrrReFQZjAjj_-Ne1JN8p7ZZuniuwpmj57Q&scope=email+profile+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile+openid&authuser=1&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:54] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:54] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:54] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:54] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=DYjZs8BDYGSoZXPYSROu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:02:54] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:03:58] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:03:58] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:03] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:13] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:14] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:14] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:14] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=m8gJD5EdPCKYN1mHaZUe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:14] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:21] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:25] "[32mGET /login/callback?state=f53cbfc08bd42023775a90c52a7a44ce&code=4/0AQSTgQEFctdKKVQV8UMOpP6Ke3VyizUVxuTj3-AEYeN4rn5JSRbkQpqhD-h45IQNGoS_Kg&scope=email+profile+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile+openid&authuser=1&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:25] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:25] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:25] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:25] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=m8gJD5EdPCKYN1mHaZUe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:04:25] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:00] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:00] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:02] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:05] "[32mGET /login/callback?state=cc8a36d3b0d99ec398352bfda62f1d78&code=4/0AQSTgQHyrFIHQbcFlHy1ByjHyVGcDGWeaZx1QPY1LQx96SK8QNi1e-CxNssQBfzdjTtpUA&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile&authuser=1&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:05] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:06] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:06] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:06] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=jpKBKb4YFZncQd3UKQC5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:06] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:57] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:57] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:07:59] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:03] "[32mGET /login/callback?state=b27b3fbda5e64ec08953e50688e6b3dc&code=4/0AQSTgQGunEEpI6BeozlOEkG1d1NUym6qvOyuzARGsz3Bs7H7TycjEsT0sBBANvcf9gpEIw&scope=email+profile+https://www.googleapis.com/auth/userinfo.profile+openid+https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:03] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:11] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:11] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:12] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:12] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:13] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:13] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:14] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:16] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:19] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:27] "[32mGET /login/callback?state=347692d4416896d0c394f1d5cbd8e4c1&code=4/0AQSTgQGAHVtYSdkYb5fu7mh8Y6H6JeqZOYe64pyyQx73NfFssF4NfPjIWzTXgEGZT7uGDA&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email&authuser=0&hd=student.uptm.edu.my&prompt=consent HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:27] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:32] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:08:32] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:00] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:00] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:12] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:20] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:21] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:21] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:21] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=0GH3CGiIBzepxVOK4uqI HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:09:21] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:10:10] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:10:10] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:10:36] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:10:49] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:10:55] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:31] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:37] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:37] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:52] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:52] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:55] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:55] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:55] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:55] "GET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=clrgGu76BbC6EmdzFWAd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:11:55] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:01] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:01] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:10] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:10] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:22] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:36] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:50] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:13:51] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:11] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:16] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:16] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:18] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:18] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:30] "[32mPOST /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:30] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:31] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:31] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:31] "GET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=yQjOOrcKVd5DkJPHuSsa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:31] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:35] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:38] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:38] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:38] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:38] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=yQjOOrcKVd5DkJPHuSsa HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:43] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:46] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:46] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:48] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:50] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:56] "[32mPOST /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:56] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:56] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:56] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:14:57] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=yQjOOrcKVd5DkJPHuSsa HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:15:51] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:15:51] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:15:51] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:15:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:15:58] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:16:08] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:16:26] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:16:30] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:16:31] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:16:55] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:07] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:07] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:09] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:10] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:10] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:10] "GET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=YHqYy7gbepnZ0NXOwmJk HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:10] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:14] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:18] "[32mPOST /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:18] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:18] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:18] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:18] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=YHqYy7gbepnZ0NXOwmJk HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:17:58] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:01] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:01] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:01] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:01] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=YHqYy7gbepnZ0NXOwmJk HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:07] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:13] "[32mPOST /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:13] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:13] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:13] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:13] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=YHqYy7gbepnZ0NXOwmJk HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:18] "[35m[1mGET /view_members HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:18] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:18] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:18] "[36mGET /view_members?__debugger__=yes&cmd=resource&f=console.png&s=YHqYy7gbepnZ0NXOwmJk HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:51] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:51] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:51] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:56] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:56] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:18:56] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:00] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:00] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:13] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:22] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:29] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:33] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:19:57] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:05] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:05] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:09] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:09] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:14] "[32mPOST /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:14] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:20] "[32mPOST /delete_member/7 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:20] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:21] "[32mPOST /delete_member/6 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:21] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:23] "[32mPOST /delete_member/5 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:23] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:24] "[32mPOST /delete_member/4 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:24] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:25] "[32mPOST /delete_member/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:25] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:27] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:27] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:30] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:31] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:34] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:39] "[32mPOST /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:39] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:41] "GET /register_class/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:43] "[32mPOST /register_class/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:43] "GET /member/3/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:47] "GET /register_class/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:48] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:51] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:20:57] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:23] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:28] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:29] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:38] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:42] "[32mGET /login/callback?state=88e15cbe3591603db5bf9d8803916550&code=4/0AQSTgQFiJIQCP8RWea7w_Ghukof8uip12-tnwq70-QTYqAdHCcmhyzCk9IMOMsROZ3iMEg&scope=email+profile+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile+openid&authuser=1&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:42] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:45] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:45] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:46] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:46] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:47] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:47] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:48] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:48] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:21:57] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:09] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:13] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:16] "[32mGET /login/callback?state=ffbaf71067a07c963ed966bce9a1186e&code=4/0AQSTgQFLqMVrE3pwWws7rG-RprjqQwOd2uf1r8owGNIheBk18VUS0DLRUFmkM0Z1Wgncng&scope=email+profile+https://www.googleapis.com/auth/userinfo.profile+openid+https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:16] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:17] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:18] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:31] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:42] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:42] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:44] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:45] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:45] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:46] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:46] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:47] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:23:47] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:24:10] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:24:18] "[32mGET /login/google HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:24:22] "[32mGET /login/callback?state=620eaf7f5d9dbf295e5d873492aefba8&code=4/0AQSTgQEMAYTT91PZfHpibWQ3CZsKW7UjtEDb1MfS2p4k0h6yNI8KRBVQYjgqlaRxfQ_t4Q&scope=email+profile+openid+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile&authuser=0&hd=student.uptm.edu.my&prompt=none HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:24:22] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:24:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:24:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:29] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:33] "[33mGET /login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:44] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:44] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:44] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:44] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=dlDmMEUikKTLnn4lfzzL HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:26:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:30] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:34] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:51] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:59] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:28:59] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:06] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:29] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:30] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:37] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:37] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:40] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:50] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:50] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:29:52] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:30:00] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 08:30:02] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:49:46] "[33mGET /login HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:50:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:50:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:50:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:50:18] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=eGHS12f9DNppV2rz83rb HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:50:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:51:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 15:51:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:17:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:17:53] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:17:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:17:55] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:13] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:36] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:44] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:44] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:18:51] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:23:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:23:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:23:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:23:58] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:23:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:23:59] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:24:07] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:24:07] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:24:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:21] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:21] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:22] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:22] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:24] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:24] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:24] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:25] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:25] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:25] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:27] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:27] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:27] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:28] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:28] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:28] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:29] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:27:29] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:35] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:36] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:41] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:41] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:42] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:42] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:42] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:43] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:43] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:43] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:44] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:44] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:44] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:45] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:45] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:47] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:47] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:50] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:50] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:28:50] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:05] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:05] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:19] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:26] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:43] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:45] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:51] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:58] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:58] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:29:59] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:01] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:04] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:06] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:09] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:09] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:30:11] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:35:55] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:35:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:35:55] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:35:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:35:56] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:05] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:05] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:09] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:10] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:10] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:11] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:11] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:31] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:31] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:36:33] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:17] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:18] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:24] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:25] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:53] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:39:53] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:40:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:40:11] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:40:20] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:40:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:40:23] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:40:23] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:40:25] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:53] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:53] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:54] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:54] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:54] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:56] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:56] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:59] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:59] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:51:59] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:00] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:00] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:00] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:01] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:01] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:03] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:03] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:08] "[32mGET /view_classes HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:08] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:09] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:09] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:09] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:12] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:12] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:13] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:13] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2025 16:52:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 02:14:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 02:14:26] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 02:14:34] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 02:14:34] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:12] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:19] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:19] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:27] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:27] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:33] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:33] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:35] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:35] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:37] "[32mGET /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:37] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:39] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:39] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:12:41] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:13:26] "[32mGET /view_classes HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:13:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 03:13:26] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:12] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:20] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:20] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:46] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:46] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:34:46] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:04] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:04] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:09] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:51] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:51] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:52] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:52] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:57] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:57] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:35:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:06] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:06] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:14] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:14] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:19] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:22] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:25] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:36:26] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:13] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:21] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:22] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=1zCYjXQmpbbLAvOJljFT HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=1zCYjXQmpbbLAvOJljFT HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 08:59:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:02] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:02] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:12] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:26] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:53] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:53] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:55] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:00:55] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:05] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:17] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:17] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:25] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:25] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:32] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:32] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:32] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:32] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:36] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:36] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:43] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:43] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:50] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:50] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:56] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:01:59] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:02] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:02] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:05] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:07] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:17] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:17] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:27] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=1zCYjXQmpbbLAvOJljFT HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:02:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:20] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:20] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:28] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:28] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:29] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:29] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:29] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:29] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:29] "[32mGET /register_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:29] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:30] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:30] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:32] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:33] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:33] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:35] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 09:11:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:03:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:03:53] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:03] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:03] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:08] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:08] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:10] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:14] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:25] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:25] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:04:42] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:05:36] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:05:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:05:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:05:51] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:05:51] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:05:58] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:05:58] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:07] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:10] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:12] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:15] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:15] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 10:06:19] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:25:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:25:43] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:25:43] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:25:56] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:25:56] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:26:08] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:26:40] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:26:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 12:26:40] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:34:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:34:48] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:03] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:03] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:26] "[32mGET /view_classes HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:26] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:35] "[32mGET /view_classes HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:38] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:48] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:48] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:35:53] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:36:25] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:36:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:36:25] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:17] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:27] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:27] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:31] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:31] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:36] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:37] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:39] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:39] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:41] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:42] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:37:42] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:00] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:00] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:19] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:42] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:42] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:55] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:39:55] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:05] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:05] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:10] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:10] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:22] "[32mPOST /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:22] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:24] "GET /member/3/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:27] "GET /register_class/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:28] "[32mPOST /register_class/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:28] "GET /member/3/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:31] "GET /register_class/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:36] "[32mPOST /register_class/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:36] "GET /member/3/classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:39] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:46] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:47] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:53] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:57] "[32mPOST /delete_member/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:40:57] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:41:02] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:41:04] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:41:04] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:41:05] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:41:07] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:41:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:41:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:43:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:43:58] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:44:05] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:44:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:44:18] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:44:18] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:44:27] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:44:27] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:38] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:38] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:40] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:40] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:47] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:47] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:47] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:46:52] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:21] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:21] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:42] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:42] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:42] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:50] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:47:50] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:00] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:06] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:14] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:14] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:14] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:21] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:21] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:48] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:48:49] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:02] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:02] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:02] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:08] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:38] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:38] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:38] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:40] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:40] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:56] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:56] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:49:56] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:50:09] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:50:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:02] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:16] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:16] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:16] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:22] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:57] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:57] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:58:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:02] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:02] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:07] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:07] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:16] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 15:59:16] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:06] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:14] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:14] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:14] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:23] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:23] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:23] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:31] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:52] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:07:52] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:33] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:34] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:41] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:41] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:18:45] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:02] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:08] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:08] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:13] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:13] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:24] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:25] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:27] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:29] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:32] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:33] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:35] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:35] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:36] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:38] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:38] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:44] "[32mPOST /add_member HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:44] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:51] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:19:53] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:21:01] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:21:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:21:01] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:01] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:01] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:05] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:07] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:08] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:22:08] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:44:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:44:54] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:44:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:44:55] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:45:06] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:45:06] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:45:11] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:45:11] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:45:12] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:21] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:23] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:23] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:52] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:55:54] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:56:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 16:56:25] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:05:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:05:39] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:05:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:05:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:06:07] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:06:07] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:06:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:06:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:06:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:28] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:28] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:34] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:37] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:14:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:16:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:30] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:47] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:47] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:17:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:18:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:18:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:19:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:19:15] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:19:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:19:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:19:27] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:19:27] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:19:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:27] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:37] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:37] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:43] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:21:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:22:47] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:22:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:22:47] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:24:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:24:47] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:24:56] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:24:56] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:24:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:08] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:11] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:34] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:34] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:46] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:25:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:26:07] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:26:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:26:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:15] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:22] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:22] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:32] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:34] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:51] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:51] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:54] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:56] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:58] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2025 17:28:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:24] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:24] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:26] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:55] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:47:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:00] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:02] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:03] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:15] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:15] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:24] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:48:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:10] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:10] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:27] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:27] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:31] "[35m[1mGET /mfa/setup HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:32] "GET /mfa/setup?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:32] "GET /mfa/setup?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:33] "GET /mfa/setup?__debugger__=yes&cmd=resource&f=console.png&s=RJ9rtG9mXnmXUz8rJDfL HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 21:58:33] "GET /mfa/setup?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:15] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:15] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:19] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:19] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:22] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:23] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:24] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:00:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:13] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:13] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:22] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:22] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:51] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:51] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:11:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:06] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:06] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:11] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:12] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:22] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:22] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:24] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:12:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:13:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:13:51] "[33mGET /static/style.csss HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:00] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:00] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:02] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:08] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:10] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:14:10] "[33mGET /static/style.csss HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:12] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:12] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:17] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:49] "[32mGET /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:16:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:01] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:01] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:09] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:11] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:17] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:18] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:23] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:24] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:26] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:27] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:30] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:32] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:33] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:35] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:36] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:37] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:39] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:41] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:46] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:55] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:17:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:23:03] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:23:03] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:23:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:23:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:41:46] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:41:46] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:41:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:44:17] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:44:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:44:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:44:22] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:44:22] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:44:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Apr/2025 22:44:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:23:47] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:23:47] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:23:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:02] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:13] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:13] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:19] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:24] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:26] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:25:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:38:05] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:38:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:38:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:38:12] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:38:12] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 01:38:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:04] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:14] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:14] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:16] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:21] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:22] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:35] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:43] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:43] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:57] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:26:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:00] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:01] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:04] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:05] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:06] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:07] "GET /view_classes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:09] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:10] "GET /add_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:11] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:12] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:15] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:16] "GET /register_member HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:17] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:23] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:46] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:53] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:53] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:27:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:05] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:05] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:17] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:19] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:28] "GET /view_members HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 02:28:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:39] "[32mGET /view_members HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:39] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:48] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:48] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:57] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:58:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:59:07] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 11:59:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug: * Detected change in 'C:\\Users\\khair\\gymmanage\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-051-868
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:01:07] "[32mGET /mfa/setup HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:01:07] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:01:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:01:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:01:15] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:01:15] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:01:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:02:14] "GET /mfa/setup HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:02:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:04:17] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:04:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:04:34] "[32mPOST /mfa HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:04:34] "GET /dashboard HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:04:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:23:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:23:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:23:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:35] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:35] "GET /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:40] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:52] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:54] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:56] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:58] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:37:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:38:01] "POST /mfa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2025 12:38:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

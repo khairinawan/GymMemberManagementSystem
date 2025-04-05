@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'style.css') }}">
+    <title>Setup MFA</title>
+</head>
+<body>
+    <h2>Scan This QR Code with Google Authenticator</h2>
+    {% if qr_code %}
+        <img src="data:image/png;base64,{{ qr_code }}" alt="MFA QR Code">
+    {% else %}
+        <p style="color:red;">Error: QR Code not generated.</p>
+    {% endif %}
+    <p>After scanning, enter the OTP in the login page.</p>
+    <a href="{{ url_for('mfa') }}" class="btn btn-secondary">Go to MFA</a>
+</body>
+</html>
